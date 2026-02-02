@@ -8,6 +8,8 @@
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success.svg)]()
 [![Downloads](https://img.shields.io/github/downloads/lunagray932-ctrl/file-organizer-renamer/total?style=flat-square)](https://github.com/lunagray932-ctrl/file-organizer-renamer/releases)
 
+**[📥 Download Latest Release](https://github.com/lunagray932-ctrl/file-organizer-renamer/releases/latest)** | **[⭐ Star This Project](https://github.com/lunagray932-ctrl/file-organizer-renamer)**
+
 ---
 
 ## 🌟 What Is This?
