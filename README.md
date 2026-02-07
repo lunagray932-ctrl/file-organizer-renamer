@@ -14,7 +14,7 @@
 
 ## 🔥 Recent Updates (Feb 7, 2026)
 
-**Security & Quality Improvements** - Thanks to community code review ([#1](https://github.com/lunagray932-ctrl/file-organizer-renamer/issues/1)):
+**Security & Quality Improvements** - Thanks to [@tomysshadow](https://github.com/tomysshadow) for the detailed code review ([#1](https://github.com/lunagray932-ctrl/file-organizer-renamer/issues/1)):
 
 - ✅ **Fixed TOCTOU race condition** in file operations (prevents data loss)
 - ✅ **Replaced deprecated VBScript launcher** with `.pyw` file (Windows 2027-ready)
