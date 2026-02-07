@@ -12,6 +12,19 @@
 
 ---
 
+## 🔥 Recent Updates (Feb 7, 2026)
+
+**Security & Quality Improvements** - Thanks to community code review ([#1](https://github.com/lunagray932-ctrl/file-organizer-renamer/issues/1)):
+
+- ✅ **Fixed TOCTOU race condition** in file operations (prevents data loss)
+- ✅ **Replaced deprecated VBScript launcher** with `.pyw` file (Windows 2027-ready)
+- ✅ **Improved path validation** using `os.path.samefile()` for better reliability
+- ✅ **Code quality improvements** with defaultdict and cleaner logic
+
+See commits [523502a](https://github.com/lunagray932-ctrl/file-organizer-renamer/commit/523502a) and [6a10a70](https://github.com/lunagray932-ctrl/file-organizer-renamer/commit/6a10a70) for details.
+
+---
+
 ## 🌟 What Is This?
 
 **File Organizer + Renamer** is a professional-grade desktop application designed to solve the universal problem of messy files. Whether you have thousands of photos scattered across your PC or a Downloads folder that's become a digital junkyard, this tool brings everything into perfect order **automatically**.
